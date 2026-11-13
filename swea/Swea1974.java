@@ -1,5 +1,3 @@
-package com.algorithm.study.swea;
-
 import java.util.*;
 import java.io.*;
 
